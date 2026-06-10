@@ -1,16 +1,10 @@
 # Colab links 
 
 [Repository](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21)
-- [0a_Indexing_Lists_pt01_drills.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/0a_Indexing_Lists_pt01_drills.ipynb)
-- [0a_Indexing_Lists_pt_01_drills.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/0a_Indexing_Lists_pt_01_drills.ipynb)
-- [0b_Indexing_Lists_pt02_drills.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/0b_Indexing_Lists_pt02_drills.ipynb)
-- [1a_.Slicing_Lists_drills.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/1a_.Slicing_Lists_drills.ipynb)
-- [1a_Slicing_Lists_drills.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/1a_Slicing_Lists_drills.ipynb)
 - [1c_Lists_Exercise.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/1c_Lists_Exercise.ipynb)
 - [1d_Intro_to_Python,Lists_Exercise.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/1d_Intro_to_Python,Lists_Exercise.ipynb)
 - [1e_Data_Science_Problem_Definition_Exercise.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/1e_Data_Science_Problem_Definition_Exercise.ipynb)
 - [2a-Conditionals.Exercise.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/2a-Conditionals.Exercise.ipynb)
 - [2b-Conditionals,Dictionaries,Loops.Exercise.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/2b-Conditionals,Dictionaries,Loops.Exercise.ipynb)
 - [2c-Lists,Dictionaries,Sets,Tuples.Exercise.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/2c-Lists,Dictionaries,Sets,Tuples.Exercise.ipynb)
-- [About_me.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/About_me.ipynb)
-- [Copy_of_0a_Indexing_Lists_pt01_drills.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/Copy_of_0a_Indexing_Lists_pt01_drills.ipynb)
+- [3a-Functions.Exercise.ipynb](https://colab.research.google.com/github/ikoghoddds-bit/Data-Science-Portfolio-C21/blob/main/Exercises/3a-Functions.Exercise.ipynb)
